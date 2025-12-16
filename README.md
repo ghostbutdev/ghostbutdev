@@ -9,6 +9,7 @@
 ---
 
 🕶️ **About me**
+<img width="1536" height="1024" alt="ChatGPT Image 16 Ara 2025 20_47_45" src="https://github.com/user-attachments/assets/18cc50aa-2040-4c4d-b59d-48d8e7ad5c89" />
 
 I enjoy creating games, systems, and interactive projects.
 I learn best by experimenting, breaking things, and rebuilding them better.
