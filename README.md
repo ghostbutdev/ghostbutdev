@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 ghostbutdev
+# 👻 gh0st.dev
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C7C7C&center=true&vCenter=true&width=500&lines=Learning+by+building;Breaking+things+to+fix+them;Games+%26+interactive+systems" alt="Typing SVG" />
 
