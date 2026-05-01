@@ -15,7 +15,7 @@ I learn best by experimenting, breaking things, and rebuilding them better.
 🌱 **Currently learning & using**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,c#,py&theme=dark" />
 </p>
 
 ---
